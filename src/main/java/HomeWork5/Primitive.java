@@ -1,3 +1,5 @@
+package HomeWork5;
+
 public class Primitive {
     public static void main(String[] args) {
         //правильные

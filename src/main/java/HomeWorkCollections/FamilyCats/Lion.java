@@ -1,7 +1,7 @@
-package HomeWork11.FamilyCats;
+package HomeWorkCollections.FamilyCats;
 
-import HomeWork11.Cat;
-import HomeWork11.interfaceCat.WildCat;
+import HomeWorkCollections.Cat;
+import HomeWorkCollections.interfaceCat.WildCat;
 
 public class Lion extends Cat implements WildCat {
 

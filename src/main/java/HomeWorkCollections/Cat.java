@@ -1,4 +1,4 @@
-package HomeWork11;
+package HomeWorkCollections;
 
 public class Cat extends Animal implements Comparable<Cat> {
     private String name;

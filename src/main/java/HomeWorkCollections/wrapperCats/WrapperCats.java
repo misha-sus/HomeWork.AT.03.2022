@@ -1,6 +1,6 @@
-package HomeWork11.wrapperCats;
+package HomeWorkCollections.wrapperCats;
 
-import HomeWork11.Cat;
+import HomeWorkCollections.Cat;
 
 public class WrapperCats {
     private Cat cat1;

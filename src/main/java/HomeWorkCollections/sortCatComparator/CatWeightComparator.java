@@ -1,6 +1,6 @@
-package HomeWork11.sortCatComparator;
+package HomeWorkCollections.sortCatComparator;
 
-import HomeWork11.Cat;
+import HomeWorkCollections.Cat;
 
 import java.util.Comparator;
 

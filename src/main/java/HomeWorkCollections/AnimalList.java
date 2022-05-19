@@ -1,10 +1,10 @@
-package HomeWork11;
+package HomeWorkCollections;
 
-import HomeWork11.interfaceCat.Strokable;
-import HomeWork11.interfaceCat.WildCat;
-import HomeWork11.sortCatComparator.CatNameComparator;
-import HomeWork11.sortCatComparator.CatWeightComparator;
-import HomeWork11.wrapperCats.WrapperCats;
+import HomeWorkCollections.interfaceCat.Strokable;
+import HomeWorkCollections.interfaceCat.WildCat;
+import HomeWorkCollections.sortCatComparator.CatNameComparator;
+import HomeWorkCollections.sortCatComparator.CatWeightComparator;
+import HomeWorkCollections.wrapperCats.WrapperCats;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package HomeWork11;
+package HomeWorkCollections;
 
 public class Dog extends Animal{
 }

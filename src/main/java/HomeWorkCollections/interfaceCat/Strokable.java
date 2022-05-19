@@ -1,4 +1,4 @@
-package HomeWork11.interfaceCat;
+package HomeWorkCollections.interfaceCat;
 
 public interface Strokable {
     void stroke();

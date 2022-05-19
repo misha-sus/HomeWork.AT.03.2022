@@ -1,7 +1,7 @@
-package HomeWork11.FamilyCats;
+package HomeWorkCollections.FamilyCats;
 
-import HomeWork11.Cat;
-import HomeWork11.interfaceCat.Strokable;
+import HomeWorkCollections.Cat;
+import HomeWorkCollections.interfaceCat.Strokable;
 
 public class SiameseCat extends Cat implements Strokable {
 
